@@ -5,11 +5,11 @@
 .floatright{
   float:right;
 }
-
-
-
+/*STRUCTURE*/
 body{
   margin:0;
+  font-family: Verdana, sans-serif;
+  color: rgb(101, 101, 101);
 }
 header{
   width:100%;
@@ -64,4 +64,26 @@ footer{
   height: 100%;
   background-color: rgb(226, 226, 226);
   margin: 0 auto;
+}
+#logo{
+float: left;
+}
+nav{
+  float:left;
+  margin-left: 300px;
+}
+nav li{
+  display: inline; /*I want it to be horizontal*/
+  margin-right: 20px;
+  font-weight: bold;
+}
+.button{
+  margin: 5px 5px 0 0;
+}
+.imageButton{
+  border-radius: 5px;
+}
+.heroImage{
+  float: left;
+  margin: 20px 0 0 20px;
 }
