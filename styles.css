@@ -39,13 +39,13 @@ section.organize{
   padding: 5px 0;
   margin-bottom: 5px;
 }
-section.organize img{
+section.organize img, section.share img{
   float: left;
   margin-left: 20px;
   margin-top: 20px;
 background-color: rgb(200, 200, 200);
 }
-.organizeContent{
+.organizeContent, .shareContent{
   float: left;
   margin-left: 20px;
   margin-top: 20px;
