@@ -8,7 +8,7 @@
 /*STRUCTURE*/
 body{
   margin:0;
-  font-family: Verdana, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: rgb(101, 101, 101);
 }
 header{
@@ -79,6 +79,14 @@ nav li{
 }
 .button{
   margin: 5px 5px 0 0;
+  width: 150px;
+  height:35px;
+  float:right;
+  background-color: rgb(106, 106, 106);
+  color:white;
+  text-align: center;
+  padding-top: 15px;
+  border-radius: 9px;
 }
 .imageButton{
   border-radius: 5px;
@@ -92,7 +100,7 @@ nav li{
   float: left;
   margin-left: 20px;
   padding-top: 40px;
-  background: rgb(150, 150, 150);
+  background: rgb(196, 196, 196);
 }
 section.hero h1{
   font-size: 30px;
@@ -100,4 +108,27 @@ section.hero h1{
 }
 section.hero p{
   margin-bottom: 60px;
+}
+section.hero h1, section.hero p{
+  color:
+}
+section.hero .button{
+  width:225px;
+  height: 40px;
+  padding-top: 25px;
+  font-size: 20px;
+  float: left;
+}
+section.features h2{
+  font-size:25px;
+  text-align: center;
+  margin-bottom: -20px;
+  color: white;
+  letter-spacing: 1px;
+}
+section.features h4{
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 60px;
+  color: rgb(196, 196, 196);
 }
