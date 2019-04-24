@@ -39,6 +39,18 @@ section.organize{
   padding: 5px 0;
   margin-bottom: 5px;
 }
+section.organize img{
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+background-color: rgb(200, 200, 200);
+}
+.organizeContent{
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  width:440px;
+}
 section.share{
   width: 940px;
   height: 300px;
