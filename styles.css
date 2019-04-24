@@ -132,3 +132,16 @@ section.features h4{
   margin-bottom: 60px;
   color: rgb(196, 196, 196);
 }
+section.features aside{
+  width: 286;
+  height: 200px;
+  float: left;
+  text-align: center;
+  margin-left: 20px;
+  background-color: rgb(226, 226, 226);
+}
+section.features aside img{
+  width: 100%;
+  height: 150px;
+  background: rgb(200, 200, 200);
+}
