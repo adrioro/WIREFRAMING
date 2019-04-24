@@ -87,3 +87,17 @@ nav li{
   float: left;
   margin: 20px 0 0 20px;
 }
+.herocontent{
+  width: 400px;
+  float: left;
+  margin-left: 20px;
+  padding-top: 40px;
+  background: rgb(150, 150, 150);
+}
+section.hero h1{
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+section.hero p{
+  margin-bottom: 60px;
+}
