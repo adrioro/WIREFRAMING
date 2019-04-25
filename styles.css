@@ -81,7 +81,6 @@ footer{
   height: 60px;
   background-color: rgb(200, 200, 200);
   padding: 5px 0;
-
 }
 footer p{
   text-align: center;
@@ -92,7 +91,6 @@ footer p{
 .container{
   width:940px;
   height: 100%;
-  background-color: rgb(226, 226, 226);
   margin: 0 auto;
 }
 #logo{
@@ -130,7 +128,6 @@ nav li{
   float: left;
   margin-left: 20px;
   padding-top: 40px;
-  background: rgb(196, 196, 196);
 }
 section.hero h1{
   font-size: 30px;
