@@ -68,15 +68,26 @@ section.get{
 section.get h2{
   font-size:30px;
   float:left;
-  color:rgb(226, 226, 226);
+  color:rgb(108, 107, 107);
   margin-left: 60px;
   margin-top: 30px;
+}
+section.get .button{
+  margin-right: 60px;
+  margin-top: 25px;
 }
 footer{
   width:100%;
   height: 60px;
   background-color: rgb(200, 200, 200);
   padding: 5px 0;
+
+}
+footer p{
+  text-align: center;
+  color: rgb(108, 107, 107);
+  padding-top: 9px;
+  font-size: 12px;
 }
 .container{
   width:940px;
