@@ -49,7 +49,7 @@ section.hero h1, section.hero p{
 section.hero .button{
   width:225px;
   height: 40px;
-  padding-top: 25px;
+  padding-top: 15px;
   font-size: 20px;
   float: left;
 }
@@ -151,6 +151,15 @@ nav li a:hover{
   text-align: center;
   padding-top: 15px;
   border-radius: 9px;
+  cursor: pointer;
+}
+.button a{
+  color:rgb(240, 239, 240);
+  text-decoration: none;
+}
+.button a:hover{
+  color: rgb(33, 33, 33);
+  text-decoration: underline;
 }
 .imageButton{
   border-radius: 5px;
